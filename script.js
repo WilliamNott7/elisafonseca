@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
- const text = "Elisa Fonseca é uma dançarina e criadora de conteúdo com profunda conexão com a cultura urbana e expressão corporal. Por meio de coreografias envolventes, ela transforma o movimento em narrativa, impactando milhares de seguidores com autenticidade e estilo. Seu conteúdo combina técnica, carisma e sensação de comunidade ideal para marcas que buscam presença real, engajamento genuíno e visual contemporâneo.";
+ const text = "Elisa Fonseca é uma criadora de conteúdo com profunda conexão com a cultura urbana e expressão corporal. Por meio de coreografias envolventes, ela transforma o movimento em narrativa, impactando milhares de seguidores com autenticidade e estilo. Seu conteúdo combina técnica, carisma e sensação de comunidade ideal para marcas que buscam presença real, engajamento genuíno e visual contemporâneo.";
   let i = 0;
   function typing() {
     if (i < text.length) {
